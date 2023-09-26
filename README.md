@@ -90,3 +90,7 @@ All images used in this report have been sourced from [Unsplash](https://unsplas
 ### Font Credit
 
 The Neurona font used in this project was created by [Marianela Grande](https://www.behance.net/gallery/112975959/Neurona-Free-Type-Font) and is available for download on Behance. I would like to extend my appreciation to Marianela Grande for providing this visually appealing font that complements the project's design.
+
+**Designed and developed by Paolo Papania**
+
+[Portfolio](https://www.papaniap.dk) | [LinkedIn](https://www.linkedin.com/in/papaniap/)

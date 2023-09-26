@@ -1,5 +1,12 @@
 # Crafting a Specialized WordPress Blog
 
+## Project Overview
+
+- **Name:** Ergo Boards
+- **Type:** Web Development
+- **Date:** June 2023
+- **Technology Stack:** WordPress, Elementor
+
 ## Introduction
 
 In a demanding 24-hour WordPress exam, I dedicated myself to crafting a specialized blog focused on ergonomic keyboards, showcasing my passion for mechanical keyboards and delivering valuable content to a dedicated audience. The subject and target group of the blog are of my choosing, and all text content and images used are original or obtained from copyright-free sources. This report will provide a concise overview of the WordPress modifications, accompanied by links and screen captures that highlight specific areas where changes were implemented.
@@ -9,6 +16,7 @@ In a demanding 24-hour WordPress exam, I dedicated myself to crafting a speciali
 ## Table of Contents
 
 - [Crafting a Specialized WordPress Blog](#crafting-a-specialized-wordpress-blog)
+  - [Project Overview](#project-overview)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
   - [Theme Customization](#theme-customization)
